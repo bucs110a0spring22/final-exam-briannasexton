@@ -12,16 +12,17 @@ Please make sure you have completed the soot survey at:
     [soot.binghamton.edu](https://soot.binghamton.edu)
 
 Please list the urls for the APIs you used:
-
+ http://dog-api.kinduff.com/api/facts 
+https://aztro.sameerkumar.website/
 Summary of Program:
-
+This Program was made to have your day start on the right foot. It says Good Morning, and asks the user if they would like a dog fact or is they would like their daily horoscope.
 Most Challenging topic in the course:
-
+creating in-depth classes and bringing them together in main function
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ N/A
 
 ## REFERENCES:
- < List any outside resources used >
+ stackoverflow
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+
